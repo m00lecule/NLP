@@ -10,6 +10,7 @@ xlrd = "*"
 re = "*"
 numpy = "*"
 demoji = "*"
+wikiquote = "*"
 
 [requires]
 python_version = "3.7"
