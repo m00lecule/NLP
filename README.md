@@ -37,5 +37,5 @@ source: <https://en.wikiquote.org>
 - **Andrzej Duda**: 88 quotes
 - **Antoni Macierewicz**: 68 quotes
 - **Ludwik Dorn**: 61 quotes
-- **Andrzej Sośnierz**: 1 quotes
+- **Andrzej Sośnierz**: 1 quote
 - **Mariusz Kamiński**: 7 quotes
